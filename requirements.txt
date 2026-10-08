@@ -3,3 +3,4 @@ google-genai
 rdkit
 pubchempy
 PyPDF2
+cairosvg
